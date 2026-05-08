@@ -1,2 +1,1 @@
-def mergeArrays(arr1, arr2):
-  
+print("update")  
